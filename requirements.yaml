@@ -1,0 +1,19 @@
+name: evomics_ml_workshop
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - h5py
+  - stdpopsim
+  - msprime
+  - ipykernel
+  - pip
+  - pip:
+    - scikit-learn
+ 
