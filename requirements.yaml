@@ -13,6 +13,8 @@ dependencies:
   - stdpopsim
   - msprime
   - ipykernel
+  - demes
+  - demesdraw
   - pip
   - pip:
     - scikit-learn
