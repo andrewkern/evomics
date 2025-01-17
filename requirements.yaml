@@ -19,4 +19,4 @@ dependencies:
   - pip
   - pip:
       - scikit-learn
-      - git+https://github.com/kr-colab/locator.git@modernizing
+      - git+https://github.com/kr-colab/locator.git@module
